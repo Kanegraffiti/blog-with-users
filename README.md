@@ -4,11 +4,11 @@ Blog with Users is a Flask-powered multi-author blogging platform that supports 
 
 ## Features
 
-- 📝 **Rich text posts** – Authors can compose blog entries with formatted content and feature images using CKEditor.
-- 👥 **User accounts** – Visitors can register, log in, and leave comments on posts.
-- 🛡️ **Admin controls** – The first registered user (ID 1) has access to create, edit, and delete posts.
-- 💬 **Commenting system** – Authenticated users can discuss each post with CKEditor-powered comments.
-- 🗄️ **SQLite persistence** – Data is stored in a local SQLite database by default, or you can provide a custom database URL.
+- **Rich text posts** – Authors can compose blog entries with formatted content and feature images using CKEditor.
+- **User accounts** – Visitors can register, log in, and leave comments on posts.
+- **Admin controls** – The first registered user (ID 1) has access to create, edit, and delete posts.
+- **Commenting system** – Authenticated users can discuss each post with CKEditor-powered comments.
+- **SQLite persistence** – Data is stored in a local SQLite database by default, or you can provide a custom database URL.
 
 ## Project structure
 
